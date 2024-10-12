@@ -36,3 +36,4 @@ Image comparison algorithm uses the imgcompare library. The default tolerance va
 # License
 MIT License
 
+All credits to Mani who was the original author of the program.
