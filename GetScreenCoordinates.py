@@ -39,7 +39,7 @@ class Snippy(QtWidgets.QWidget):
         y1 = min(self.begin.y(), self.end.y())
         x2 = max(self.begin.x(), self.end.x())
         y2 = max(self.begin.y(), self.end.y())
-        self.cords = str(x1) + "," + str(y1) + "," + str(x2) + "," + str(y2)
+        self.cords = str(x1) + "," + str(y1) + "," + str(x2) + "," + str(y2) # returned coordinates are {(x1, y1), (x2, y2)} where 1 is top left and 2 is bottom right
         print(self.cords)
         # root.close()
         
