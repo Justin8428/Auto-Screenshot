@@ -18,7 +18,7 @@ It can also install by running following in terminal.
 ```
 pip install -r requirements.txt
 ```
-3. Run ```AutoScreenshot.py```
+3. Run ```AutoScreenshot.py``` via terminal
 4. Click ```Select Area to Monitor``` and draw rectangular part on screen where you want to monitor changes.
 4. Click ```Start``` and draw rectangular part on screen where you want to screenshot.
 5. Now it shall take screenshot when the monitoring area changes automatically.
