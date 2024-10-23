@@ -28,7 +28,7 @@ class AutoScreenshot:
         fontRoboto = font.Font(family='Roboto', size=16, weight='bold')
 
         # project name label     
-        projectTitleLabel = Label(root, text="Auto Screenshot v1.0.0")
+        projectTitleLabel = Label(root, text="Auto Screenshot v2.0")
         projectTitleLabel.config(font=fontRoboto, bg="white", fg="#5599ff")
         projectTitleLabel.pack(padx="10")
 
