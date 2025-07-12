@@ -16,6 +16,7 @@ You can also install by running the following in terminal.
 ```
 pip install -r requirements.txt
 ```
+Note: Linux users may need to use `pip3` instead of `pip`, and also install `python3-tk` through their system package manager. e.g. Debian-based should run `sudo apt-get install python3-tk`
 3. Open terminal, change directory to extracted folder, and run ```py AutoScreenshot.py``` via terminal
 4. Click ```Select Area to Monitor``` and draw rectangular part on screen where you want to monitor changes.
 4. Click ```Start``` and draw rectangular part on screen where you want to screenshot.
